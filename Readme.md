@@ -2,7 +2,7 @@
 
 This example demonstrates how to use Dashboard API to create and modify [dashboard items](xref:https://docs.devexpress.com/Dashboard/116521/basic-concepts-and-terminology/dashboard-items) and [tab pages](xref:https://docs.devexpress.com/Dashboard/116503/).
 
-![](~/images/wpf-dashboard-viewer-item-tabs.png)
+![](https://github.com/DevExpress-Examples/wpf-dashboard-viewer-item-tabs/blob/18.2.1%2B/images/wpf-dashboard-viewer-item-tabs.png)
 
 See also:
 
