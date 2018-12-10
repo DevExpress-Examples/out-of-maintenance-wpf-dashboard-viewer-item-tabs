@@ -7,3 +7,4 @@ This example demonstrates how to use Dashboard API to create and modify [dashboa
 See also:
 
 [Dashboard & Data Visualization Blog - Tab Support for Windows & the Web](https://community.devexpress.com/blogs/analytics/archive/2018/09/07/DevExpress-Dashboards-Tab-Support-Windows-Web.aspx)
+
