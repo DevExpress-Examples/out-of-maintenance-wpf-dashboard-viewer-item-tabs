@@ -24,7 +24,7 @@
                                     x:Name="btnCreate"
                                     BarItemDisplayMode="ContentAndGlyph"
                                     Content="Create Tabbed Dashboard"
-                                    Glyph="pack://application:,,,/DevExpress.Images.v18.2;component/DevAV/Other/A_32x32.png"
+                                    Glyph="pack://application:,,,/DevExpress.Images.v21.1;component/DevAV/Other/A_32x32.png"
                                     ItemClick="btnCreate_ItemClick" />
                             </dxb:InsertAction.Element>
                         </dxb:InsertAction>
@@ -34,7 +34,7 @@
                                     x:Name="btnModify"
                                     BarItemDisplayMode="ContentAndGlyph"
                                     Content="Modify Tabbed Dashboard"
-                                    Glyph="pack://application:,,,/DevExpress.Images.v18.2;component/DevAV/Other/B_32x32.png"
+                                    Glyph="pack://application:,,,/DevExpress.Images.v21.1;component/DevAV/Other/B_32x32.png"
                                     IsEnabled="{Binding Path=TabDashboardLoaded}"
                                     ItemClick="btnModify_ItemClick" />
                             </dxb:InsertAction.Element>
